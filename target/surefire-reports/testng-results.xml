@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-21T21:00:25 CDT" name="ParameterSuite" finished-at="2020-09-21T21:00:26 CDT" duration-ms="31">
+    <groups>
+    </groups>
+    <test started-at="2020-09-21T21:00:25 CDT" name="ParameterTest" finished-at="2020-09-21T21:00:26 CDT" duration-ms="31">
+      <class name="TestNG.TestNGparameter">
+        <test-method signature="getIdName(int, java.lang.String)[pri:0, instance:TestNG.TestNGparameter@120d6fe6]" started-at="2020-09-21T21:00:26 CDT" name="getIdName" finished-at="2020-09-21T21:00:26 CDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jackson]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getIdName -->
+      </class> <!-- TestNG.TestNGparameter -->
+    </test> <!-- ParameterTest -->
+  </suite> <!-- ParameterSuite -->
+</testng-results>
